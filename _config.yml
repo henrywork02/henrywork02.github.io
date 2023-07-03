@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Hello World
+description: 공부하는 한량이 목표입니다.
+url: https://henrywork02.github.io/
+avatar: /memoji01.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /web_first_images_release.png
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Henry Kim
+  url: https://github.com/henrywork02
+  email: henry.work02@gmail.com
